@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Code Generator</string>
+    <string name="click_for_random_code">CLICK FOR RANDOM CODE</string>
+    <string name="textview">TextView</string>
+</resources>
